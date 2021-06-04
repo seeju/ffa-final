@@ -1,6 +1,7 @@
 <template>
   <div>
     <p>{{ info }}</p>
+    <Home />
   </div>
 </template>
 
